@@ -7,7 +7,7 @@ const GitStar = () => {
       target="_blank"
       rel="noopener noreferrer"
     >
-      <div className="w-full bg-black text-white py-3 text-lg ">
+      <div className="w-full bg-black text-white py-3 text-lg  ">
         <div className="flex justify-center">
           <span className="animate-pulse">🌟 </span> Star
           Tailwind-Background-Designes on GitHub{" "}
