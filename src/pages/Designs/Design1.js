@@ -24,15 +24,6 @@ const Design1 = () => {
         <div className={` w-20 h-20 bg-blue-500`}></div>
         <div className={` w-80 h-20 bg-red-500 rotate-45 animate-pulse`}></div>
       </div>
-      <BackAndCodeButton />
-      <div className="flex h-[100vh] items-center justify-center ">
-        <div className={` ${myFunc(h)} w-20  bg-white `}></div>
-
-        {myFunc(h)}
-
-        <div className={` w-20 h-20 bg-blue-500`}></div>
-        <div className={` w-80 h-20 bg-red-500 rotate-45 animate-pulse`}></div>
-      </div>
     </div>
   );
 };
