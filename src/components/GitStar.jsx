@@ -11,6 +11,9 @@ const GitStar = () => {
         <div className="flex justify-center">
           <span className="animate-pulse">🌟 </span> Star
           Tailwind-Background-Designes on GitHub{" "}
+          <span className="animate-pulse">🌟 </span>{" "}
+          <span className="animate-pulse">🌟 </span> Star
+          Tailwind-Background-Designes on GitHub{" "}
           <span className="animate-pulse">🌟 </span>
         </div>
       </div>
