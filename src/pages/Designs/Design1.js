@@ -23,7 +23,6 @@ const Design1 = () => {
 
         <div className={` w-20 h-20 bg-blue-500`}></div>
         <div className={` w-80 h-20 bg-red-500 rotate-45 animate-pulse`}></div>
-        <div className={` w-80 h-20 bg-red-500 rotate-45 animate-pulse`}></div>
       </div>
     </div>
   );
